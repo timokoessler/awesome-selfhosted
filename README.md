@@ -8,6 +8,7 @@ I do not take any responsibility for the security of the listed software and for
 - [Media 📽️](#media-️)
 - [Monitoring & Status ✅](#monitoring--status-)
 - [Password Managers 🔑](#password-managers-)
+- [Security 🛡️](#security-️)
 - [Smart Home 🏠](#smart-home-)
 - [Software Development](#software-development)
 - [VPN](#vpn)
@@ -29,6 +30,9 @@ I do not take any responsibility for the security of the listed software and for
 
 ### Password Managers 🔑
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden "Vaultwarden") - Lightweight Bitwarden server with full support for all Bitwarden apps and browser extensions (inkl. premium features)
+
+### Security 🛡️
+- [CrowdSec](https://crowdsec.net/ "CrowdSec") - Modern Intrusion Prevention System with crowdsourced IP blacklist - a great alternative to Fail2ban ([Source](https://github.com/crowdsecurity/crowdsec "Source"))
 
 ### Smart Home 🏠
 - [Node-RED](https://nodered.org/ "Node-RED") - Low code Smart Home automation using Web-UI ([Source](https://github.com/node-red/node-red "Source"))
