@@ -21,6 +21,7 @@ I do not take any responsibility for the security of the listed software and for
 ### Communication 📬
 - [Chatwoot](https://www.chatwoot.com/ "Chatwoot") - Ticket system which supports multiple communcation channels ([Source](https://github.com/chatwoot/chatwoot "Source"))
 - [Mailcow](https://mailcow.email/ "Mailcow") - Mail server suite with a modern web ui for administration and everything you could need ([Source](https://github.com/mailcow/mailcow-dockerized "Source")) ❤️
+- [ntfy](https://ntfy.sh/ "ntfy.sh") - Easy way to send interactive push notifications to your devices ([Source](https://github.com/binwiederhier/ntfy/ "Source"))
 
 ### Media 📽️
 - [Jellyfin](https://jellyfin.org/ "Jellyfin") - Multimedia suite for movies, shows, music, books ... ([Source](https://github.com/jellyfin/jellyfin "Source"))
