@@ -28,13 +28,15 @@ I do not take any responsibility for the security of the listed software and for
 - [Jellyfin](https://jellyfin.org/ "Jellyfin") - Multimedia suite for movies, shows, music, books ... ([Source](https://github.com/jellyfin/jellyfin "Source"))
 
 ### Monitoring & Status ✅
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma "Uptime Kuma") - A fancy self-hosted monitoring tool
+- [Grafana](https://grafana.com/ "Grafana") - Create awesome graphical dashboards of data from different sources [(Source)](https://github.com/grafana/grafana "Source")
+- [Netdata](https://www.netdata.cloud/ "Netdata") - Real-time performance and health monitoring for your infrastructure [(Source)](https://github.com/netdata/netdata "Source")
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma "Uptime Kuma") - A self-hosted monitoring tool like "Uptime Robot"
 
 ### Password Managers 🔑
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden "Vaultwarden") - Lightweight Bitwarden server with full support for all Bitwarden apps and browser extensions (inkl. premium features)
 
 ### Security 🛡️
-- [CrowdSec](https://crowdsec.net/ "CrowdSec") - Modern Intrusion Prevention System with crowdsourced IP blacklist - a great alternative to Fail2ban ([Source](https://github.com/crowdsecurity/crowdsec "Source"))
+- [CrowdSec](https://crowdsec.net/ "CrowdSec") - Modern Intrusion Prevention System with crowdsourced IP blacklist - a great alternative to Fail2ban ([Source](https://github.com/crowdsecurity/crowdsec "Source")) ⭐
 
 ### Smart Home 🏠
 - [Node-RED](https://nodered.org/ "Node-RED") - Low code Smart Home automation using Web-UI ([Source](https://github.com/node-red/node-red "Source"))
