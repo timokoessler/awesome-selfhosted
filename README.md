@@ -51,4 +51,5 @@ I do not take any responsibility for the security of the listed software and for
 
 ### Other
 - [acme.sh](https://github.com/acmesh-official/acme.sh "acme.sh") - Linux shell script for issuing and renewing ssl certs with support for Letsencrypt wildcard certs
+- [Homer](https://github.com/bastienwirtz/homer "Homer") - A simple static homepage for your apps 🍩
 - [Watchtower](https://containrrr.dev/watchtower/ "Watchtower") - Automating Docker 🐋 image updates ([Source](https://github.com/containrrr/watchtower/ "Source"))
