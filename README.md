@@ -19,12 +19,13 @@ I do not take any responsibility for the security of the listed software and for
 - [Umami](https://umami.is/ "Umami") - A simple, privacy-focused web analytics solution ([Source](https://github.com/mikecao/umami "Source"))
 
 ### Communication 📬
-- [Chatwoot](https://www.chatwoot.com/ "Chatwoot") - Ticket system which supports multiple communcation channels ([Source](https://github.com/chatwoot/chatwoot "Source"))
 - [Mailcow](https://mailcow.email/ "Mailcow") - Mail server suite with a modern web ui for administration and everything you could need ([Source](https://github.com/mailcow/mailcow-dockerized "Source")) ❤️
 - [Typebot](https://typebot.io/ "typebot.io") - Awesome conversational apps builder (FAQ, Customer Support, Quiz ...) ([Source](https://github.com/baptisteArno/typebot.io "Source"))
 
-### Media 📽️
+### Media 📽️📄
+- [Immich](https://immich.app/ "Immich") - Selfhosted Google Photos alternative ([Source](https://github.com/immich-app/immich "Source"))
 - [Jellyfin](https://jellyfin.org/ "Jellyfin") - Multimedia suite for movies, shows, music, books ... ([Source](https://github.com/jellyfin/jellyfin "Source"))
+- [Paperless-ngx](https://docs.paperless-ngx.com/ "Paperless-ngx") - Great open-source document management system ([Source](https://github.com/paperless-ngx/paperless-ngx "Source"))
 
 ### Monitoring & Status ✅
 - [Grafana](https://grafana.com/ "Grafana") - Create awesome graphical dashboards of data from different sources [(Source)](https://github.com/grafana/grafana "Source")
@@ -43,7 +44,7 @@ I do not take any responsibility for the security of the listed software and for
 ### Software Development
 - [Gitlab CE](https://about.gitlab.com/ "Gitlab CE") - Git repository management with Issues, Container Registry CI/CD ... ([Source](https://gitlab.com/gitlab-org/gitlab-foss/ "Source"))
 - [GitLab Runner](https://docs.gitlab.com/runner/ "GitLab Runner") - For running Gitlabs CI/CD jobs ([Source](https://gitlab.com/gitlab-org/gitlab-runner "Source"))
-- [GlitchTip](https://glitchtip.com/ "GlitchTip") - Error monitoring server that is compatible with Sentrys SDKs ([Source](https://gitlab.com/glitchtip "Source"))
+- [Sentry](https://sentry.io/ "Sentry") - Application Performance Monitoring & Error Tracking ([Source](https://github.com/getsentry/sentry "Source"))
 
 ### VPN & Tunnel
 - [sish](https://github.com/antoniomika/sish "sish") - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH
