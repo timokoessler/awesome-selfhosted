@@ -39,6 +39,7 @@ I do not take any responsibility for the security of the listed software and for
 - [CrowdSec](https://crowdsec.net/ "CrowdSec") - Modern Intrusion Prevention System with crowdsourced IP blacklist - a great alternative to Fail2ban ([Source](https://github.com/crowdsecurity/crowdsec "Source")) ⭐
 
 ### Smart Home 🏠
+- [Home Assistant](https://www.home-assistant.io "Home Assistant") - Open source home automation platform ([Source](https://github.com/home-assistant/core "Source"))
 - [Node-RED](https://nodered.org/ "Node-RED") - Low code Smart Home automation using Web-UI ([Source](https://github.com/node-red/node-red "Source"))
 
 ### Software Development
