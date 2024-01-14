@@ -43,6 +43,7 @@ I do not take any responsibility for the security of the listed software and for
 - [Node-RED](https://nodered.org/ "Node-RED") - Low code Smart Home automation using Web-UI ([Source](https://github.com/node-red/node-red "Source"))
 
 ### Software Development
+- [Gitea](https://about.gitea.com "Gitea") - Simple, self-hostable Git repository management with a great container and package registry ([Source](https://github.com/go-gitea/gitea "Source")) 🫖
 - [Gitlab CE](https://about.gitlab.com/ "Gitlab CE") - Git repository management with Issues, Container Registry CI/CD ... ([Source](https://gitlab.com/gitlab-org/gitlab-foss/ "Source"))
 - [GitLab Runner](https://docs.gitlab.com/runner/ "GitLab Runner") - For running Gitlabs CI/CD jobs ([Source](https://gitlab.com/gitlab-org/gitlab-runner "Source"))
 - [Sentry](https://sentry.io/ "Sentry") - Application Performance Monitoring & Error Tracking ([Source](https://github.com/getsentry/sentry "Source"))
