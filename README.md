@@ -55,4 +55,5 @@ I do not take any responsibility for the security of the listed software and for
 ### Other
 - [acme.sh](https://github.com/acmesh-official/acme.sh "acme.sh") - Linux shell script for issuing and renewing ssl certs with support for Letsencrypt wildcard certs
 - [borgmatic](https://torsion.org/borgmatic/ "borgmatic") - Simple, configuration-driven backup software for Linux ([Source](https://github.com/borgmatic-collective/borgmatic "Source"))
+- [Budibase](https://budibase.com "Budibase") - Low code platform for creating internal tools ([Source](https://github.com/Budibase/budibase "Source"))
 - [Homer](https://github.com/bastienwirtz/homer "Homer") - A simple static homepage for your apps 🍩
