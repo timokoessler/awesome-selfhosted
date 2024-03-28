@@ -50,7 +50,7 @@ I do not take any responsibility for the security of the listed software and for
 
 ### VPN & Tunnel
 - [sish](https://github.com/antoniomika/sish "sish") - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH
-- [WireGuard Easy (wg-easy)](https://github.com/WeeJeWel/wg-easy "WireGuard Easy (wg-easy)") - Easy WireGuard setup and modern Web-UI for administration
+- [WireGuard Easy (wg-easy)](https://github.com/wg-easy/wg-easy "WireGuard Easy (wg-easy)") - Easy WireGuard setup and modern Web-UI for administration
 
 ### Other
 - [acme.sh](https://github.com/acmesh-official/acme.sh "acme.sh") - Linux shell script for issuing and renewing ssl certs with support for Letsencrypt wildcard certs
