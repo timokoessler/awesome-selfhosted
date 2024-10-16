@@ -1,6 +1,6 @@
 # My Awesome-Selfhosted List 😎
 
-This list contains selfhosted tools that I use or have used myself. (private and at work)
+This list contains selfhosted tools that I use or have used myself (private and at work).
 I do not take any responsibility for the security of the listed software and for any damage that may occur.
 
 ## Table of contents
